@@ -18,7 +18,7 @@
           <router-view></router-view>
         </transition>
         <div class="footer">
-          <p>制作人：计科导论第九小组</p>
+          <p>制作人：计科导论第九小组</p> 
         </div>
       </div>
       <BackTop></BackTop>
